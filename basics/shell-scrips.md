@@ -40,4 +40,4 @@ Shell scripts are powerful tools for automation and are widely used by system ad
 ---
 **Attribution**  
 Content in this document was generated with assistance from Claude 3.7 Sonnet, an AI assistant developed by Anthropic.  
-Last updated: [March 12th 2025]
+_Last updated: March 12th, 2025_
